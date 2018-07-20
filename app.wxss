@@ -1,0 +1,17 @@
+@import 'common/weui.wxss';
+
+.container {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  padding: 200rpx 0;
+  box-sizing: border-box;
+}
+
+page {
+  font-family: Helvetica, STHeiti STXihei, Microsoft YaHei, Arial;
+  font-weight: normal;
+  background-color: #f0eff5;
+}
